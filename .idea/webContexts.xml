@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/web/login/login.jsp" value="file://$PROJECT_DIR$/src/web/login" />
+        <entry key="file://$PROJECT_DIR$/src/web/student/jsp/ActiHavedJoin.jsp" value="file://$PROJECT_DIR$/src/web/student/jsp" />
+        <entry key="file://$PROJECT_DIR$/src/web/teacher/jsp/CURDPage.jsp" value="file://$PROJECT_DIR$/src/web/teacher/jsp" />
+        <entry key="file://$PROJECT_DIR$/src/web/teacher/jsp/RegStu.jsp" value="file://$PROJECT_DIR$/src/web/teacher/jsp" />
+      </map>
+    </option>
+  </component>
+</project>
